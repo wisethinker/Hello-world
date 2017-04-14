@@ -1,2 +1,4 @@
 # Hello-world
-my first step to program
+<?php
+echo "hello World"
+?/
